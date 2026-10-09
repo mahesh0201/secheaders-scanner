@@ -23,7 +23,7 @@ and the site gets a 0-100 score and an A-F grade.
 ## Install and run
 
 ```bash
-git clone https://github.com/<your-username>/secheaders-scanner.git
+git clone https://github.com/mahesh0201/secheaders-scanner.git
 cd secheaders-scanner
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
